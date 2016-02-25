@@ -1,2 +1,2 @@
 # hello-world
-test Githun functions
+test Github functions
